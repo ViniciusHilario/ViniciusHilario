@@ -7,6 +7,27 @@ Aqui você vai encontrar alguns dos meus projetos, automações e laboratórios 
 
 ---
 
+## 📊 Estatísticas do GitHub
+
+> 💡 *Dica: Os cards abaixo são dinâmicos e se atualizam automaticamente. O card da esquerda mostrará a sua nota (A+, S, etc.) assim que você tiver atividade suficiente.*
+
+<p align="left">
+  <img src="https://github-readme-stats.shion.dev/api?username=ViniciusHilario&show_icons=true&theme=dark&include_all_commits=true" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ViniciusHilario&layout=compact&theme=dark" alt="Idiomas mais usados" height="150" />
+</p>
+
+---
+
+## 🐍 Minhas Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusHilario/ViniciusHilario/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ViniciusHilario/ViniciusHilario/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ViniciusHilario/ViniciusHilario/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 ## 🛠️ Tecnologias e Ferramentas
 
 ### Sistemas Operacionais e Ambientes
@@ -27,27 +48,6 @@ Aqui você vai encontrar alguns dos meus projetos, automações e laboratórios 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 Estatísticas do GitHub
-
-> 💡 *Dica: Os cards abaixo são dinâmicos e se atualizam automaticamente. O card da esquerda mostrará a sua nota (A+, S, etc.) assim que você tiver atividade suficiente.*
-
-<p align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=ViniciusHilario&show_icons=true&theme=dark&include_all_commits=true" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ViniciusHilario&layout=compact&theme=dark" alt="Idiomas mais usados" height="150" />
-</p>
-
----
-
-## 🐍 Minhas Contribuições
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusHilario/ViniciusHilario/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ViniciusHilario/ViniciusHilario/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ViniciusHilario/ViniciusHilario/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
