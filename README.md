@@ -17,6 +17,12 @@ Aqui você vai encontrar alguns dos meus projetos, automações e laboratórios 
 ![pfSense](https://img.shields.io/badge/pfSense-820000?style=for-the-badge&logo=pfsense&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+### Desenvolvimento
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 ### Automação, Scripting e DevOps
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -30,6 +36,16 @@ Aqui você vai encontrar alguns dos meus projetos, automações e laboratórios 
   <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dark&include_all_commits=true" alt="Estatísticas do GitHub" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=dark" alt="Idiomas mais usados" height="150" />
 </p>
+
+---
+
+## 🐍 Minhas Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USUARIO-AQUI/SEU-USUARIO-AQUI/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU-USUARIO-AQUI/SEU-USUARIO-AQUI/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SEU-USUARIO-AQUI/SEU-USUARIO-AQUI/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
