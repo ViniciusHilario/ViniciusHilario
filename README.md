@@ -32,6 +32,8 @@ Aqui você vai encontrar alguns dos meus projetos, automações e laboratórios 
 
 ## 📊 Estatísticas do GitHub
 
+> 💡 *Dica: Os cards abaixo são dinâmicos e se atualizam automaticamente. O card da esquerda mostrará a sua nota (A+, S, etc.) assim que você tiver atividade suficiente.*
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ViniciusHilario&show_icons=true&theme=dark&include_all_commits=true" alt="Estatísticas do GitHub" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusHilario&layout=compact&theme=dark" alt="Idiomas mais usados" height="150" />
@@ -50,5 +52,5 @@ Aqui você vai encontrar alguns dos meus projetos, automações e laboratórios 
 ---
 
 <p align="center">
-  Desenvolvido com 💻 e ☕ por Vinicius.
+  Desenvolvido com 💻 e ☕ por ViniciusHilario.
 </p>
