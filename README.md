@@ -33,8 +33,8 @@ Aqui você vai encontrar alguns dos meus projetos, automações e laboratórios 
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dark&include_all_commits=true" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=dark" alt="Idiomas mais usados" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusHilario&show_icons=true&theme=dark&include_all_commits=true" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusHilario&layout=compact&theme=dark" alt="Idiomas mais usados" height="150" />
 </p>
 
 ---
@@ -42,9 +42,9 @@ Aqui você vai encontrar alguns dos meus projetos, automações e laboratórios 
 ## 🐍 Minhas Contribuições
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USUARIO-AQUI/SEU-USUARIO-AQUI/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU-USUARIO-AQUI/SEU-USUARIO-AQUI/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SEU-USUARIO-AQUI/SEU-USUARIO-AQUI/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusHilario/ViniciusHilario/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ViniciusHilario/ViniciusHilario/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ViniciusHilario/ViniciusHilario/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
